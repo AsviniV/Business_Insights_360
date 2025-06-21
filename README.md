@@ -109,7 +109,6 @@ Data is imported from a **MySQL** database into Power BI using appropriate crede
 ## 🧱 Data Modeling
 We adopted a **Snowflake Schema** design for robust performance and scalability. Good data modeling is crucial, as all visuals depend on this foundation.
 
-Refer to [this blog](https://www.sqlbi.com/articles/fundamentals-of-data-modeling/) for best practices in data modeling.
 
 ---
 
